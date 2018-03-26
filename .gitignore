@@ -1,0 +1,6 @@
+# PyCharm
+.idea/
+
+# Python 3
+__pycache__/
+venv3/
